@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="54534" started-at="2021-10-02T13:19:29 IST" finished-at="2021-10-02T13:20:23 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="54534" started-at="2021-10-02T13:19:29 IST" finished-at="2021-10-02T13:20:23 IST">
+      <class name="org.testng_runner.TestNG_Runner">
+        <test-method status="PASS" signature="configuration()[pri:0, instance:org.testng_runner.TestNG_Runner@1060b431]" name="configuration" is-config="true" duration-ms="3672" started-at="2021-10-02T13:19:29 IST" finished-at="2021-10-02T13:19:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configuration -->
+        <test-method status="PASS" signature="browserLaunch()[pri:0, instance:org.testng_runner.TestNG_Runner@1060b431]" name="browserLaunch" is-config="true" duration-ms="17101" started-at="2021-10-02T13:19:33 IST" finished-at="2021-10-02T13:19:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method status="PASS" signature="home_Page()[pri:0, instance:org.testng_runner.TestNG_Runner@1060b431]" name="home_Page" duration-ms="4451" started-at="2021-10-02T13:19:50 IST" finished-at="2021-10-02T13:19:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- home_Page -->
+        <test-method status="PASS" signature="search_Hotel()[pri:1, instance:org.testng_runner.TestNG_Runner@1060b431]" name="search_Hotel" duration-ms="6137" started-at="2021-10-02T13:19:54 IST" finished-at="2021-10-02T13:20:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search_Hotel -->
+        <test-method status="PASS" signature="select_Hotel()[pri:2, instance:org.testng_runner.TestNG_Runner@1060b431]" name="select_Hotel" duration-ms="2243" started-at="2021-10-02T13:20:01 IST" finished-at="2021-10-02T13:20:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- select_Hotel -->
+        <test-method status="PASS" signature="book_Now()[pri:3, instance:org.testng_runner.TestNG_Runner@1060b431]" name="book_Now" duration-ms="4266" started-at="2021-10-02T13:20:03 IST" finished-at="2021-10-02T13:20:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- book_Now -->
+        <test-method status="PASS" signature="booking_Confirm()[pri:4, instance:org.testng_runner.TestNG_Runner@1060b431]" name="booking_Confirm" duration-ms="7951" started-at="2021-10-02T13:20:07 IST" finished-at="2021-10-02T13:20:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- booking_Confirm -->
+        <test-method status="PASS" signature="iteinerary()[pri:5, instance:org.testng_runner.TestNG_Runner@1060b431]" name="iteinerary" duration-ms="1268" started-at="2021-10-02T13:20:15 IST" finished-at="2021-10-02T13:20:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iteinerary -->
+        <test-method status="PASS" signature="browserClose()[pri:0, instance:org.testng_runner.TestNG_Runner@1060b431]" name="browserClose" is-config="true" duration-ms="4908" started-at="2021-10-02T13:20:16 IST" finished-at="2021-10-02T13:20:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+        <test-method status="PASS" signature="flush()[pri:0, instance:org.testng_runner.TestNG_Runner@1060b431]" name="flush" is-config="true" duration-ms="2172" started-at="2021-10-02T13:20:21 IST" finished-at="2021-10-02T13:20:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flush -->
+      </class> <!-- org.testng_runner.TestNG_Runner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
