@@ -118,5 +118,9 @@ public class Property_file {
 		String cvv = p.getProperty("cvv_no");
 		return cvv;
 	}
+	public String getPath() {
+		String path = p.getProperty("path");
+		return path;
+	}
 
 }
